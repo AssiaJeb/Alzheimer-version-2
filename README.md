@@ -1,6 +1,6 @@
 # AI Early Detection of Alzheimer's Disease
 
-Digital Health Engineering PFA 2024–2025.
+Digital Health Engineering PFA 2025–2026.
 
 Dataset: OASIS-2 Longitudinal  
 Model: ResNet50 + multimodal fusion  
