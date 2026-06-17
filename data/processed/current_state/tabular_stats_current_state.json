@@ -1,0 +1,18 @@
+{
+  "age_mean": 77.22556390977444,
+  "age_std": 7.9098459072216265,
+  "educ_mean": 14.785714285714286,
+  "educ_std": 2.7412099533951992,
+  "features": [
+    "MMSE_norm",
+    "nWBV",
+    "Age_zscore",
+    "EDUC_zscore"
+  ],
+  "label_strategy": "current_state_CDR",
+  "label_mapping": {
+    "CDR_0": "CN",
+    "CDR_0_5": "MCI",
+    "CDR_ge_1": "MA"
+  }
+}

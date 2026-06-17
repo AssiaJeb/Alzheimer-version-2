@@ -1,0 +1,7 @@
+metric,value,target,passed,label_strategy
+Accuracy,0.5454545454545454,0.85,False,current_state_CDR
+Recall macro,0.3863636363636364,0.88,False,current_state_CDR
+F1 macro,0.3653846153846154,0.85,False,current_state_CDR
+AUC-ROC,0.613180258574198,0.9,False,current_state_CDR
+Recall MCI,0.4090909090909091,0.85,False,current_state_CDR
+Specificity,0.75,0.82,False,current_state_CDR

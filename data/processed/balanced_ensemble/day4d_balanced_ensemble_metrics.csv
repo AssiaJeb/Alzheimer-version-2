@@ -1,0 +1,7 @@
+metric,value,target,passed
+Accuracy,0.6779661016949152,0.85,False
+Recall macro,0.482468443197756,0.88,False
+F1 macro,0.46635367762128327,0.85,False
+AUC-ROC,0.7286453888604427,0.9,False
+Recall MCI,0.0,0.85,False
+Specificity,0.8387096774193549,0.82,True

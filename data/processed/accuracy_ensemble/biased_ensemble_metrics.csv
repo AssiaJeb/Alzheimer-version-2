@@ -1,0 +1,7 @@
+metric,value,target,passed,model
+Accuracy,0.6271186440677966,0.85,False,accuracy_ensemble_class_bias_calibrated
+Recall macro,0.46517064048620854,0.88,False,accuracy_ensemble_class_bias_calibrated
+F1 macro,0.45600907029478455,0.85,False,accuracy_ensemble_class_bias_calibrated
+AUC-ROC,0.7245584026556444,0.9,False,accuracy_ensemble_class_bias_calibrated
+Recall MCI,0.0,0.85,False,accuracy_ensemble_class_bias_calibrated
+Specificity,0.6129032258064516,0.82,False,accuracy_ensemble_class_bias_calibrated
